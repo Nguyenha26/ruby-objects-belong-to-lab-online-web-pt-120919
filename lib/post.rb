@@ -1,3 +1,3 @@
 class Post 
-  attr_accessible :title, :author 
+  attr_accessor :title, :author 
 end
